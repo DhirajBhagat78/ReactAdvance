@@ -1,0 +1,15 @@
+.primary{
+    background-color: skyblue;
+}
+.secondary{
+    background-color: grey;
+}
+.success{
+    background-color: limegreen;
+}
+.danger{
+    background-color: red;
+}
+.warning{
+    background-color: sandybrown;
+}
